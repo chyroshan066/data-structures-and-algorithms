@@ -5,8 +5,7 @@ using namespace std;
 
 /* Using binet's formula;
    Logic-> fibo(n) = ((phi^n) - ((1-phi)^n)) / sqrt(5)
-           where, phi = (1 + sqrt(5)) / 2
-*/
+           where, phi = (1 + sqrt(5)) / 2 */
 long long Fibo(int n)
 {
     double goldenRatio = (1 + sqrt(5)) / 2;
