@@ -103,7 +103,7 @@ int main()
             if (!isEmpty(&stk))
             {
                 s = pop(&stk);
-                printf("The removed items are: \n");
+                printf("The removed item is: \n");
                 printf("Name: %s\n", s.name);
                 printf("Age: %d\n", s.age);
                 printf("Roll No: %d\n", s.roll);
