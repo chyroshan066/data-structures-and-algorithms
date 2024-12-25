@@ -22,4 +22,5 @@ int main()
     scanf("%d", &n);
     printf("Tower of Hanoi of %d disc:\n", n);
     TOH(n, src, tmp, dst);
+    return 0;
 }

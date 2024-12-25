@@ -14,4 +14,5 @@ int main()
     printf("Enter two numbers: ");
     scanf("%d %d", &num1, &num2);
     printf("The GCD of %d and %d is %d", num1, num2, recursiveGCD(num1, num2));
+    return 0;
 }

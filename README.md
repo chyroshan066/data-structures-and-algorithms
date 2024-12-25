@@ -15,8 +15,8 @@ Solutions of all the labsheet problems
 ## Lab-2
 
 - **Task-1:** Implement the algorithm for circular queue
-- **Task-2:** Implement recursive implementation of factorial
-- **Task-3:** Implement recursive implementation of nth fibonacci term with memoization
-- **Task-4:** Implement recursive implementation of nth fibonacci term without memoization
-- **Task-5:** Implement recursive implementation of GCD
-- **Task-6:** Implement recursive implementation for Towers of Hanoi(TOH)
+- **Task-2:** Recursive implementation of factorial
+- **Task-3:** Recursive implementation of nth fibonacci term with memoization
+- **Task-4:** Recursive implementation of nth fibonacci term without memoization
+- **Task-5:** Recursive implementation of GCD
+- **Task-6:** Recursive implementation for Towers of Hanoi(TOH)
