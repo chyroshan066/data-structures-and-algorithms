@@ -12,7 +12,7 @@ Solutions of all the labsheet problems
 - **Task-1:** Implement the algorithm to evaluate the given postfix expression
 - **Task-2:** Implement the algorithm to convert the given infix expression to postfix expression using stacks
 
-## Lab-2
+## Lab-3
 
 - **Task-1:** Implement the algorithm for circular queue
 - **Task-2:** Recursive implementation of factorial
@@ -20,3 +20,11 @@ Solutions of all the labsheet problems
 - **Task-4:** Recursive implementation of nth fibonacci term without memoization
 - **Task-5:** Recursive implementation of GCD
 - **Task-6:** Recursive implementation for Towers of Hanoi(TOH)
+
+## Lab-5
+
+- **Task-1:** Sort the algorithm usng bubble sort
+- **Task-2:** Sort the algorithm usng insertion sort
+- **Task-3:** Sort the algorithm usng selection sort
+- **Task-4:** Sort the algorithm usng merge sort
+- **Task-4:** Sort the algorithm usng quick sort
