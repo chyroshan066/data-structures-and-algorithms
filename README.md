@@ -28,3 +28,16 @@ Solutions of all the labsheet problems
 - **Task-3:** Sort the algorithm usng selection sort
 - **Task-4:** Sort the algorithm usng merge sort
 - **Task-4:** Sort the algorithm usng quick sort
+
+## Lab-6
+
+- **Task-1:** Sort the algorithm usng heap sort
+
+## Lab-7
+
+- **Task-1:** Depth First Traversal algorithm
+- **Task-2:** Breadth First Traversal algorithm
+- **Task-3:** Dijkistra Shortest Path algorithm
+- **Task-4:** Implement Kruskal's and Prim's algorithm for computing minimum spanning tree in python
+
+Minort changes to readme to understand

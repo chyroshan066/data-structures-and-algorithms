@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <math.h>
 
 void maxHeapify(int A[], int i, int n)
 {
-    int l = 2 * i + 1;
+    int l = 2 * i + 1; // Indexing in C starts from 0
     int r = 2 * i + 2;
     int largest = i;
     int temp;
@@ -25,7 +24,7 @@ void maxHeapify(int A[], int i, int n)
 
 void buildMaxHeap(int A[], int n)
 {
-    for (int i = (n / 2) - 1; i >= 0; i--)
+    for (int i = (n / 2) - 1; i >= 0; i--) // No need to use "floor()" function beacuse C performs implicit flooring
         maxHeapify(A, i, n);
 }
 
