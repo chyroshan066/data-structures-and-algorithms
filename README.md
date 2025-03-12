@@ -41,3 +41,21 @@ Solutions of all the labsheet problems
 - **Task-4:** Implement Prim's algorithm for computing minimum spanning tree in python
 - **Task-5:** Implement Kruskal algorithm for computing minimum spanning tree in python
 - **Task-6:** Implement Warshall algorithm for computing minimum spanning tree in python
+
+## Linked List
+
+- **Task-1:** Implement Doubly Linked List
+- **Task-1:** Implement Dynamic Implementation of Queue
+- **Task-1:** Implement Singly Linked List
+- **Task-1:** Implement Singly Linked List using stack
+
+## Queue
+
+- **Task-1:** Implement Circular queue
+- **Task-2:** Implement Linear queue
+
+## Search
+
+- **Task-1:** Implement Binary Search
+- **Task-2:** Implement Binary Search Tree
+- **Task-2:** Implement Linear Search
